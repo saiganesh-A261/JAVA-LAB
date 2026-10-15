@@ -21,3 +21,4 @@ class SalesArray {
         System.out.println("Lowest Sales : " + min);
     }
 }
+// Code By @saiganesh-A261
