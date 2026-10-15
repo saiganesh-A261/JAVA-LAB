@@ -38,3 +38,4 @@ class MultipleInheritance {
         s.displayResult();
     }
 }
+// Code By @saiganesh-A261
